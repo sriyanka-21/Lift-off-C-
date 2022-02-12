@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-inta,b;
+int a,b;
 	printf("enter two numbers to find the greater number between the two=");
 	scanf("%d\n%d",&a,&b);
 	if(a>b)
